@@ -38,8 +38,8 @@ O projeto está organizado em namespaces para separar as diferentes camadas da a
 Essa separação torna o código mais organizado, legível e fácil de dar manutenção.
 
 
-### 4. Estrutura do projeto
-
+### 🚀 Estrutura do Projeto
+```
 /
 ├── Patos/              # Contém as classes que definem os patos e seus comportamentos
 │   ├── IBrigar.cs
@@ -60,6 +60,7 @@ Essa separação torna o código mais organizado, legível e fácil de dar manut
 │   └── ExibidorDeRegras.cs
 │
 └── Program.cs          # Ponto de entrada da aplicação
+```
 
 Em resumo, este projeto foi construído como um trabalho acadêmico por quatro alunos para a disciplina de Programação Orientada a Objetos. O objetivo principal foi aplicar na prática os conceitos fundamentais da POO, como polimorfismo, herança e encapsulamento, 
 com um foco especial no uso de interfaces para a implementação do padrão de design Strategy, resultando em um código flexível, modular e de fácil extensão.
